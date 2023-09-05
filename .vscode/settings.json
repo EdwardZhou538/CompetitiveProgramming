@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xlocnum": "cpp",
+        "xutility": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "barrier": "cpp",
+        "initializer_list": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp"
+    }
+}
