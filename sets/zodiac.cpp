@@ -26,9 +26,10 @@ int main() {
     cin >> n;
 
     for (int i = 0; i < n; i++) {
-        string statement;
-        getline(cin, statement);
-        cout << statement << endl;
+        string cow1, relation, year, cow2, temp;
+        cin >> cow1 >> temp >> temp >> relation >> year >> temp >> temp >> cow2;
+        
+        if ()
     }
 
     return 0;

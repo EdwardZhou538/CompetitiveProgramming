@@ -14,6 +14,10 @@
         "initializer_list": "cpp",
         "xiosbase": "cpp",
         "xstring": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "xlocale": "cpp",
+        "iterator": "cpp",
+        "random": "cpp"
     }
 }
